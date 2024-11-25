@@ -4,13 +4,15 @@
 
 # Requirements
 ## 1. Which product category is the most profitable?
+## skincare product are more profitable (revenue = 241.63k)
 ## 2. How does total revenue compare to skincare product revenue?
+## compare to toral revenue 44% revenue is for skincare product.
 ## 3. What can we learn from the transportation mode distribution?
+## Overall, Carrier B is the best option for shipping, as it has a higher cost but faster average delivery time, making it ideal for urgent deliveries. On the other hand, Carrier A is more cost-effective but takes longer to deliver, so it is better suited for regular shipments.
 ## 4. Which cities generate the most revenue and sales volume, and how do they compare?
-## 5. What transportation route is most preferred?
-## 6. How does the satisfaction rate compare to the target, and what does this mean?
-## 7. How does average lead time affect customer satisfaction and efficiency?
-## 8. What recommendations can be made based on this supply chain data?
+## Mumbai and Kolkata together generate 47% of the total revenue, making up the largest share compared to other regions.
+## 5. What recommendations can be made based on this supply chain data?
+## 
 
 # Conclusion
 
