@@ -11,6 +11,9 @@
 ## 6. How does the satisfaction rate compare to the target, and what does this mean?
 ## 7. How does average lead time affect customer satisfaction and efficiency?
 ## 8. What recommendations can be made based on this supply chain data?
+
+# Conclusion
+
 ![sales per](https://github.com/user-attachments/assets/a07d6ea5-dc6b-4e9a-b7a8-2a3af6055c1e)
 ![Screenshot 2024-11-25 091509](https://github.com/user-attachments/assets/df1b7bec-beed-4898-9712-ad59d27e4809)
 
